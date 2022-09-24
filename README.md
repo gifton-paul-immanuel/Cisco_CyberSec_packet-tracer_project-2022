@@ -13,7 +13,7 @@ Courses done for this project:
 I HAVE ALSO UPLOADED MY PPT IN THE POV OF CYBER SECURITY 
 
 Done by - Gifton Paul Immanuel B
-A CSE student with the field of interest in Cyber Security, Networking and the cloud. Has worked a lot with Linux, majority of the pentesting tools and open source. I know programming languages such as Python, R, C, Golang, Java and html for now and yeah SQL too. Will be learning much more in the years to come :)
+. A CSE student with the field of interest in Cyber Security, Networking and the cloud. Has worked a lot with Linux, majority of the pentesting tools and open source. I know programming languages such as Python, R, C, Golang, Java and html for now and yeah SQL too. Will be learning much more in the years to come :)
 
 My email: gifton.paul.immanuel@gmail.com
 My Linkedin handle: https://www.linkedin.com/in/gifton-paul-immanuel-3831211ab/
