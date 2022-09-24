@@ -18,4 +18,4 @@ Done by - Gifton Paul Immanuel B
 My email: gifton.paul.immanuel@gmail.com
 My Linkedin handle: https://www.linkedin.com/in/gifton-paul-immanuel-3831211ab/
 
-Stay hungry; Stay foolist ;)
+Stay hungry; Stay foolish ;)
