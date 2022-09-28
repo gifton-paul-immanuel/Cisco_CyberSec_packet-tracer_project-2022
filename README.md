@@ -2,10 +2,10 @@
 This is my project I've done for the CISCO VIRTUAL INTERNSHIP with the tool packet tracer to simulate my University's network topology.
 
 Problem Statement:
-Design Secure network for your institution – Select your college or a building of your college and study the network topology of the same and design the same using on packet tracer tool(Please don’t configure just design the network). Once done, apply your learnings of NetAcad cyber security course to upgrade / secure the existing network of your college.
+Design Secure network for your institution – Select your college or a building of your college and study the network topology of the same and design the same using on packet tracer tool(Please don’t configure just design the network).
 
 Courses done for this project:
-* Introduction to Cyber Secutiy
+* Introduction to Cyber Security
 * Introduction to Packet Tracer
 * Cybersecurity essentials
 --- from Netacad
